@@ -1,10 +1,10 @@
 # Cache Simulator
 
 ## Overview
-**Year:** 2019
-**Language(s):** Java
-**Discipline(s):** Computer Architecture, Computer Engineering, Computer Science
-**Keywords:** Associativity, Cache, Cache Simulator, Cache Size, FIFO, LRU, Replacement Policy, Write-Back, Write-Through
+* **Year:** 2019
+* **Language(s):** Java
+* **Discipline(s):** Computer Architecture, Computer Engineering, Computer Science
+* **Keywords:** Associativity, Cache, Cache Simulator, Cache Size, FIFO, LRU, Replacement Policy, Write-Back, Write-Through
 
 ## Description
 *Cache Simulator* is a Java program that simulates a simple cache system with various inputs, including cache size, replacement policy, associativity and write-back policy.
