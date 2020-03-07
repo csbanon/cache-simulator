@@ -1,12 +1,10 @@
 // Carlos Santiago Bañón
-// Fall '19
 
 // Cache Simulator
 // CacheSimulator.java
 
-// Cache Simulator is a simple Java program that simulates a simple cache system
-// with various inputs, including cache size, replacement policy, associativity
-// and write-back policy.
+// Cache Simulator is a Java program that simulates a simple cache system with various inputs,
+// including cache size, replacement policy, associativity and write-back policy.
 
 import java.io.*;
 import java.math.*;
