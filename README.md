@@ -31,3 +31,14 @@ The following are the memory access input files:
 2. XSBench.t
 
 Note: To use these files, download them and move them to the same directory as CacheSimulator.java.
+
+## Build Instructions
+1. Download CacheSimulator.java.
+2. Download the MiniFE and/or XSBench memory access list files.
+3. Place them all in the same folder.
+4. Compile CacheSimulator.java.
+5. Run the simulation by using the following input parameters:
+
+    `CacheSimulator <cache_size> <associativity> <replacement_policy> <write_back_policy> <input_file>`
+
+6. The simulation will then output the specified statistics.
