@@ -33,10 +33,10 @@ The following are the memory access input files:
 Note: To use these files, download them and move them to the same directory as CacheSimulator.java.
 
 ## Build Instructions
-1. Download CacheSimulator.java.
-2. Download the MiniFE and/or XSBench memory access list files.
+1. Download `CacheSimulator.java`.
+2. Download the `MiniFE.t` and/or `XSBench.t` memory access list files.
 3. Place them all in the same folder.
-4. Compile CacheSimulator.java in your terminal, using the following instruction:
+4. Compile `CacheSimulator.java` in your terminal, using the following instruction:
     
     `javac CacheSimulator.java`
     
