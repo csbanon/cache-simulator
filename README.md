@@ -30,7 +30,7 @@ The following are the memory access input files:
 1. [MiniFE.t](https://drive.google.com/open?id=1gR-MpyxlNin2rT60fGIVbsOUylY_3lLT)
 2. [XSBench.t](https://drive.google.com/open?id=1eH08UUBPNgNFKxVTwjhgAsYi98NMkhZa)
 
-Note: To use these files, download them and move them to the same directory as `CacheSimulator.java`.
+*Note: To use these files, download them and move them to the same directory as* `CacheSimulator.java`.
 
 ## Build Instructions
 1. Download `CacheSimulator.java`.
